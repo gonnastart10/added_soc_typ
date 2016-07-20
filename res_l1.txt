@@ -1,0 +1,75 @@
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_3
+item: ('fb_art_of_war_3',) , 1.000 
+item: ('fb_crystal_upgrade_2',) , 1.000 
+item: ('fb_art_of_war_3', 'fb_crystal_upgrade_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_3',) ==> ('fb_crystal_upgrade_2',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_2',) ==> ('fb_art_of_war_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('mm_offer_new4',) , 0.500 
+item: ('mm_offer_new6',) , 0.500 
+item: ('ok_in_art_of_war_5',) , 0.500 
+item: ('mm_offer_new6', 'mm_offer_new4') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_offer_new6',) ==> ('mm_offer_new4',) , confidence: 1.000, lift: 2.000
+Rule: ('mm_offer_new4',) ==> ('mm_offer_new6',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_new8
+item: ('mm_offer_new7',) , 1.000 
+item: ('mm_offer_new8',) , 1.000 
+item: ('mm_offer_new8', 'mm_offer_new7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_offer_new8',) ==> ('mm_offer_new7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new7',) ==> ('mm_offer_new8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 1.000 
+item: ('fb_chest_small',) , 1.000 
+item: ('fb_chest_small', 'fb_army_offer') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_small',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('fb_chest_small',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 0.500 
+item: ('vk_offer_new1',) , 0.500 
+item: ('fb_sparks_pack',) , 0.500 
+item: ('fb_sparks_pack', 'fb_army_offer') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_sparks_pack',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_army_offer',) ==> ('fb_sparks_pack',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_5
+item: ('ok_offer_new1',) , 0.500 
+item: ('vk_offer_5',) , 0.500 
+item: ('ok_offer_new6',) , 0.500 
+item: ('ok_offer_new6', 'ok_offer_new1') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new6',) ==> ('ok_offer_new1',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_offer_new1',) ==> ('ok_offer_new6',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+

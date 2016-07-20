@@ -1,0 +1,4735 @@
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('US',) , 1.000 
+item: ('fb_chest_medium',) , 1.000 
+item: ('fb_chest_medium', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_medium',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('US',) , 1.000 
+item: ('fb_chest_medium',) , 1.000 
+item: ('fb_chest_medium', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_medium',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('CA',) , 1.000 
+item: ('fb_chest_medium',) , 1.000 
+item: ('CA', 'fb_chest_medium') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('CA',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_medium',) ==> ('CA',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('US',) , 1.000 
+item: ('fb_chest_medium',) , 1.000 
+item: ('fb_chest_medium', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_medium',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('fb_chest_medium',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_chest_medium') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_medium',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('RU', 'ok_offer_new3') , 0.212 
+item: ('ok_offer_new3',) , 0.223 
+item: ('RU', 'ok_offer_new1') , 0.268 
+item: ('ok_offer_new1',) , 0.286 
+item: ('RU',) , 0.822 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.935, lift: 1.138
+Rule: ('ok_offer_new3',) ==> ('RU',) , confidence: 0.950, lift: 1.156
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('FR',) , 1.000 
+item: ('fb_chest_medium',) , 1.000 
+item: ('FR', 'fb_chest_medium') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('FR',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_medium',) ==> ('FR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('RU', 'ok_amazon_chest') , 0.201 
+item: ('ok_amazon_chest',) , 0.219 
+item: ('RU',) , 0.814 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_amazon_chest',) ==> ('RU',) , confidence: 0.920, lift: 1.131
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('GR',) , 1.000 
+item: ('fb_chest_medium',) , 1.000 
+item: ('fb_chest_medium', 'GR') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_medium',) ==> ('GR',) , confidence: 1.000, lift: 1.000
+Rule: ('GR',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('AT',) , 1.000 
+item: ('fb_chest_medium',) , 1.000 
+item: ('fb_chest_medium', 'AT') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_medium',) ==> ('AT',) , confidence: 1.000, lift: 1.000
+Rule: ('AT',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('US',) , 1.000 
+item: ('fb_chest_medium',) , 1.000 
+item: ('fb_chest_medium', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_medium',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_medium
+item: ('US',) , 1.000 
+item: ('fb_chest_medium',) , 1.000 
+item: ('fb_chest_medium', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_medium',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_chest_medium',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_1
+item: ('NZ',) , 1.000 
+item: ('fb_art_of_war_1',) , 1.000 
+item: ('NZ', 'fb_art_of_war_1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('NZ',) ==> ('fb_art_of_war_1',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_1',) ==> ('NZ',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_1
+item: ('fb_art_of_war_1',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_art_of_war_1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_art_of_war_1',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_1',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_1
+item: ('fb_art_of_war_1',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_art_of_war_1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_art_of_war_1',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_1',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_1
+item: ('AU',) , 1.000 
+item: ('fb_art_of_war_1',) , 1.000 
+item: ('fb_art_of_war_1', 'AU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_1',) ==> ('AU',) , confidence: 1.000, lift: 1.000
+Rule: ('AU',) ==> ('fb_art_of_war_1',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_chest_great
+item: ('ok_chest_great', 'RU') , 0.221 
+item: ('ok_chest_great',) , 0.230 
+item: ('RU',) , 0.848 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_great',) ==> ('RU',) , confidence: 0.964, lift: 1.137
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_warrior_chest
+item: ('RU', 'ok_warrior_chest') , 0.209 
+item: ('ok_warrior_chest',) , 0.241 
+item: ('RU',) , 0.798 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_warrior_chest',) ==> ('RU',) , confidence: 0.869, lift: 1.088
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_1
+item: ('vk_offer_1',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_offer_1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_offer_1',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_1',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_1
+item: ('ok_chest_great', 'RU') , 0.231 
+item: ('ok_chest_great',) , 0.250 
+item: ('RU',) , 0.875 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_great',) ==> ('RU',) , confidence: 0.923, lift: 1.055
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_warrior_chest
+item: ('RU', 'ok_warrior_chest') , 0.209 
+item: ('ok_warrior_chest',) , 0.241 
+item: ('RU',) , 0.800 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_warrior_chest',) ==> ('RU',) , confidence: 0.865, lift: 1.082
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_4_trvt2100ruby
+item: ('ok_chest_small',) , 0.333 
+item: ('vk_4_trvt2100ruby',) , 0.333 
+item: ('ok_crystal_upgrade_3',) , 0.333 
+item: ('RU', 'ok_crystal_upgrade_3') , 0.333 
+item: ('RU', 'ok_chest_small') , 0.333 
+item: ('RU',) , 0.667 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_crystal_upgrade_3',) ==> ('RU',) , confidence: 1.000, lift: 1.500
+Rule: ('ok_chest_small',) ==> ('RU',) , confidence: 1.000, lift: 1.500
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_4_trvt2100ruby
+item: ('RU',) , 1.000 
+item: ('vk_4_trvt2100ruby',) , 1.000 
+item: ('RU', 'vk_4_trvt2100ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_4_trvt2100ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_4_trvt2100ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_4_trvt2100ruby
+item: ('RU', 'ok_offer_new1') , 0.203 
+item: ('ok_offer_new1',) , 0.220 
+item: ('RU',) , 0.765 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.925, lift: 1.210
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_chest_ny1
+item: ('RU', 'ok_offer_new1') , 0.300 
+item: ('ok_offer_new1',) , 0.309 
+item: ('RU',) , 0.829 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.972, lift: 1.173
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_3
+item: ('RU', 'ok_offer_new1') , 0.231 
+item: ('ok_offer_new1',) , 0.240 
+item: ('RU',) , 0.860 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.966, lift: 1.123
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_3
+item: ('ok_chest_great', 'RU') , 0.233 
+item: ('ok_chest_great',) , 0.242 
+item: ('RU',) , 0.846 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_great',) ==> ('RU',) , confidence: 0.966, lift: 1.141
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_new9
+item: ('fb_offer_new9',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_offer_new9') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_offer_new9',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_offer_new9',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_new9
+item: ('fb_offer_new9',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_offer_new9', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_offer_new9',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_offer_new9',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_new9
+item: ('US',) , 1.000 
+item: ('fb_offer_new9',) , 1.000 
+item: ('fb_offer_new9', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_offer_new9',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_offer_new9',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_new9
+item: ('SE',) , 1.000 
+item: ('fb_offer_new9',) , 1.000 
+item: ('fb_offer_new9', 'SE') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_offer_new9',) ==> ('SE',) , confidence: 1.000, lift: 1.000
+Rule: ('SE',) ==> ('fb_offer_new9',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_new9
+item: ('vk_chest_big',) , 0.333 
+item: ('CZ',) , 0.333 
+item: ('ok_chest_small',) , 0.333 
+item: ('fb_offer_new9',) , 0.333 
+item: ('RU',) , 0.333 
+item: ('BY',) , 0.333 
+item: ('BY', 'ok_chest_small') , 0.333 
+item: ('CZ', 'fb_offer_new9') , 0.333 
+item: ('vk_chest_big', 'RU') , 0.333 
+
+RULES------------RULES------------RULES:
+Rule: ('BY',) ==> ('ok_chest_small',) , confidence: 1.000, lift: 3.000
+Rule: ('ok_chest_small',) ==> ('BY',) , confidence: 1.000, lift: 3.000
+Rule: ('CZ',) ==> ('fb_offer_new9',) , confidence: 1.000, lift: 3.000
+Rule: ('fb_offer_new9',) ==> ('CZ',) , confidence: 1.000, lift: 3.000
+Rule: ('vk_chest_big',) ==> ('RU',) , confidence: 1.000, lift: 3.000
+Rule: ('RU',) ==> ('vk_chest_big',) , confidence: 1.000, lift: 3.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_new9
+item: ('ok_offer_new3',) , 0.205 
+item: ('RU', 'ok_offer_new1') , 0.207 
+item: ('ok_offer_new1',) , 0.222 
+item: ('RU',) , 0.777 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.933, lift: 1.201
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_3
+item: ('fb_offer_3',) , 1.000 
+item: ('NZ',) , 1.000 
+item: ('NZ', 'fb_offer_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('NZ',) ==> ('fb_offer_3',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_offer_3',) ==> ('NZ',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_3
+item: ('fb_offer_3',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('GB', 'fb_offer_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('GB',) ==> ('fb_offer_3',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_offer_3',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_chest_ny1
+item: ('RU', 'ok_offer_new1') , 0.255 
+item: ('ok_offer_new1',) , 0.263 
+item: ('RU',) , 0.816 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.970, lift: 1.189
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_3
+item: ('RO',) , 1.000 
+item: ('fb_crystal_upgrade_3',) , 1.000 
+item: ('fb_crystal_upgrade_3', 'RO') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_crystal_upgrade_3',) ==> ('RO',) , confidence: 1.000, lift: 1.000
+Rule: ('RO',) ==> ('fb_crystal_upgrade_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_3
+item: ('fb_crystal_upgrade_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('fb_crystal_upgrade_3', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_crystal_upgrade_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('fb_crystal_upgrade_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_3
+item: ('fb_crystal_upgrade_3',) , 1.000 
+item: ('CZ',) , 1.000 
+item: ('fb_crystal_upgrade_3', 'CZ') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_crystal_upgrade_3',) ==> ('CZ',) , confidence: 1.000, lift: 1.000
+Rule: ('CZ',) ==> ('fb_crystal_upgrade_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_3
+item: ('RU', 'ok_amazon_chest') , 0.201 
+item: ('ok_amazon_chest',) , 0.223 
+item: ('RU',) , 0.821 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_amazon_chest',) ==> ('RU',) , confidence: 0.898, lift: 1.094
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_3
+item: ('US',) , 1.000 
+item: ('fb_crystal_upgrade_3',) , 1.000 
+item: ('fb_crystal_upgrade_3', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_crystal_upgrade_3',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_crystal_upgrade_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_3
+item: ('CA',) , 1.000 
+item: ('fb_crystal_upgrade_3',) , 1.000 
+item: ('fb_crystal_upgrade_3', 'CA') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_crystal_upgrade_3',) ==> ('CA',) , confidence: 1.000, lift: 1.000
+Rule: ('CA',) ==> ('fb_crystal_upgrade_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_3_trvt1000ruby
+item: ('RU', 'ok_warrior_chest') , 0.201 
+item: ('ok_warrior_chest',) , 0.234 
+item: ('RU',) , 0.790 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_warrior_chest',) ==> ('RU',) , confidence: 0.857, lift: 1.085
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_3_trvt1000ruby
+item: ('vk_3_trvt1000ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_3_trvt1000ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_3_trvt1000ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_3_trvt1000ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_3_trvt1000ruby
+item: ('vk_3_trvt1000ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_3_trvt1000ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_3_trvt1000ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_3_trvt1000ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_chest_ny2
+item: ('RU', 'ok_offer_new1') , 0.285 
+item: ('ok_offer_new1',) , 0.289 
+item: ('RU',) , 0.859 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.987, lift: 1.148
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_3
+item: ('ok_chest_great',) , 0.260 
+item: ('ok_chest_great', 'RU') , 0.260 
+item: ('RU',) , 0.818 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_great',) ==> ('RU',) , confidence: 1.000, lift: 1.222
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_3
+item: ('vk_offer_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_offer_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_offer_3',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_3
+item: ('vk_offer_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_offer_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_offer_3',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_6
+item: ('fb_offer_6',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_offer_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_offer_6',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_offer_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_6
+item: ('ok_chest_small',) , 0.500 
+item: ('MX',) , 0.500 
+item: ('fb_offer_6',) , 0.500 
+item: ('RU',) , 0.500 
+item: ('fb_offer_6', 'MX') , 0.500 
+item: ('RU', 'ok_chest_small') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_offer_6',) ==> ('MX',) , confidence: 1.000, lift: 2.000
+Rule: ('MX',) ==> ('fb_offer_6',) , confidence: 1.000, lift: 2.000
+Rule: ('RU',) ==> ('ok_chest_small',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_chest_small',) ==> ('RU',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_amazon_chest
+item: ('RU', 'ok_amazon_chest') , 0.211 
+item: ('ok_amazon_chest',) , 0.230 
+item: ('RU',) , 0.819 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_amazon_chest',) ==> ('RU',) , confidence: 0.917, lift: 1.120
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_amazon_chest
+item: ('RU', 'ok_amazon_chest') , 0.208 
+item: ('ok_amazon_chest',) , 0.227 
+item: ('RU',) , 0.816 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_amazon_chest',) ==> ('RU',) , confidence: 0.918, lift: 1.125
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_cat_chest_small
+item: ('fb_cat_chest_small',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_cat_chest_small') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_cat_chest_small',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_cat_chest_small',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_chest_great
+item: ('ok_chest_great', 'RU') , 0.237 
+item: ('ok_chest_great',) , 0.245 
+item: ('RU',) , 0.849 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_great',) ==> ('RU',) , confidence: 0.967, lift: 1.139
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_army_offer2
+item: ('RU', 'ok_crystal_upgrade_2') , 0.204 
+item: ('ok_crystal_upgrade_2',) , 0.216 
+item: ('RU',) , 0.847 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_crystal_upgrade_2',) ==> ('RU',) , confidence: 0.945, lift: 1.116
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_army_offer2
+item: ('vk_army_offer2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_army_offer2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_army_offer2',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_army_offer2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_army_offer2
+item: ('RU', 'ok_offer_new3') , 0.206 
+item: ('ok_offer_new3',) , 0.215 
+item: ('RU', 'ok_offer_new1') , 0.263 
+item: ('ok_offer_new1',) , 0.283 
+item: ('RU',) , 0.826 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.929, lift: 1.124
+Rule: ('ok_offer_new3',) ==> ('RU',) , confidence: 0.962, lift: 1.165
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_army_offer2
+item: ('SE',) , 1.000 
+item: ('vk_army_offer2',) , 1.000 
+item: ('vk_army_offer2', 'SE') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_army_offer2',) ==> ('SE',) , confidence: 1.000, lift: 1.000
+Rule: ('SE',) ==> ('vk_army_offer2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_army_offer2
+item: ('vk_army_offer2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_army_offer2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_army_offer2',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_army_offer2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_army_offer2
+item: ('vk_army_offer2',) , 0.500 
+item: ('vk_offer_new1',) , 0.500 
+item: ('RU', 'vk_offer_new1') , 0.500 
+item: ('RU', 'vk_army_offer2') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_army_offer2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_army_offer2
+item: ('vk_army_offer2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_army_offer2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_army_offer2',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_army_offer2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_army_offer2
+item: ('vk_army_offer2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_army_offer2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_army_offer2',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_army_offer2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_chest_ny1x12
+item: ('ok_offer_new1',) , 0.213 
+item: ('RU', 'ok_offer_new1') , 0.213 
+item: ('RU', 'ok_crystal_upgrade_2') , 0.234 
+item: ('ok_crystal_upgrade_2',) , 0.245 
+item: ('RU',) , 0.819 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_crystal_upgrade_2',) ==> ('RU',) , confidence: 0.957, lift: 1.168
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.221
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_chest_ny1x12
+item: ('RU', 'ok_offer_new1') , 0.258 
+item: ('ok_offer_new1',) , 0.266 
+item: ('RU',) , 0.879 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.970, lift: 1.103
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_3
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_3',) , 1.000 
+item: ('fb_art_of_war_3', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_3',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_3
+item: ('RO',) , 1.000 
+item: ('fb_art_of_war_3',) , 1.000 
+item: ('fb_art_of_war_3', 'RO') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_3',) ==> ('RO',) , confidence: 1.000, lift: 1.000
+Rule: ('RO',) ==> ('fb_art_of_war_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_3
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_3',) , 1.000 
+item: ('fb_art_of_war_3', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_3',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_3
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_3',) , 1.000 
+item: ('fb_crystal_upgrade_2',) , 1.000 
+item: ('fb_art_of_war_3', 'US') , 1.000 
+item: ('fb_crystal_upgrade_2', 'US') , 1.000 
+item: ('fb_art_of_war_3', 'fb_crystal_upgrade_2') , 1.000 
+item: ('fb_art_of_war_3', 'fb_crystal_upgrade_2', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_3',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_3',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_2',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_crystal_upgrade_2',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_3',) ==> ('fb_crystal_upgrade_2',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_2',) ==> ('fb_art_of_war_3',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_3',) ==> ('fb_crystal_upgrade_2', 'US') , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_2',) ==> ('fb_art_of_war_3', 'US') , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_3', 'fb_crystal_upgrade_2') , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_3', 'fb_crystal_upgrade_2') ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_3', 'US') ==> ('fb_crystal_upgrade_2',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_2', 'US') ==> ('fb_art_of_war_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_3
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_3',) , 1.000 
+item: ('fb_art_of_war_3', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_3',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_3
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_3',) , 1.000 
+item: ('fb_art_of_war_3', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_3',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_4
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_4',) , 1.000 
+item: ('US', 'fb_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('US',) ==> ('fb_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_4',) ==> ('US',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_4
+item: ('fb_art_of_war_4',) , 1.000 
+item: ('FR',) , 1.000 
+item: ('FR', 'fb_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('FR',) ==> ('fb_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_4',) ==> ('FR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_4
+item: ('fb_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_4
+item: ('fb_art_of_war_4',) , 1.000 
+item: ('NL',) , 1.000 
+item: ('NL', 'fb_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('NL',) ==> ('fb_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_4',) ==> ('NL',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_4
+item: ('fb_art_of_war_4',) , 1.000 
+item: ('NL',) , 1.000 
+item: ('NL', 'fb_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('NL',) ==> ('fb_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_4',) ==> ('NL',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_4
+item: ('fb_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_4
+item: ('fb_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_chest_ny1x12
+item: ('UA',) , 1.000 
+item: ('vk_chest_ny1x12',) , 1.000 
+item: ('vk_chest_ny1x12', 'UA') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_chest_ny1x12',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+Rule: ('UA',) ==> ('vk_chest_ny1x12',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_chest_ny1x12
+item: ('RU', 'ok_offer_new1') , 0.246 
+item: ('ok_offer_new1',) , 0.257 
+item: ('RU',) , 0.847 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.957, lift: 1.130
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_ny3
+item: ('BR',) , 1.000 
+item: ('fb_chest_ny3',) , 1.000 
+item: ('fb_chest_ny3', 'BR') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_ny3',) ==> ('BR',) , confidence: 1.000, lift: 1.000
+Rule: ('BR',) ==> ('fb_chest_ny3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_newbie_2
+item: ('ok_offer_new1',) , 0.212 
+item: ('RU', 'ok_crystal_upgrade_2') , 0.212 
+item: ('RU', 'ok_offer_new1') , 0.212 
+item: ('ok_crystal_upgrade_2',) , 0.227 
+item: ('RU',) , 0.788 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_crystal_upgrade_2',) ==> ('RU',) , confidence: 0.933, lift: 1.185
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.269
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_newbie_2
+item: ('RU', 'ok_offer_new1') , 0.238 
+item: ('ok_offer_new1',) , 0.245 
+item: ('RU',) , 0.874 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.973, lift: 1.113
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_newbie_2
+item: ('ok_offer_newbie_2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_offer_newbie_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_newbie_2',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_newbie_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_newbie_2
+item: ('ok_offer_newbie_2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_offer_newbie_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_newbie_2',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_newbie_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_newbie_2
+item: ('ok_offer_newbie_2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_offer_newbie_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_newbie_2',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_newbie_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_new8
+item: ('fb_offer_new8',) , 1.000 
+item: ('RO',) , 1.000 
+item: ('RO', 'fb_offer_new8') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RO',) ==> ('fb_offer_new8',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_offer_new8',) ==> ('RO',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_new8
+item: ('RU', 'ok_offer_new1') , 0.201 
+item: ('ok_offer_new1',) , 0.212 
+item: ('RU',) , 0.794 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.945, lift: 1.190
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_new8
+item: ('fb_offer_new8',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_offer_new8', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_offer_new8',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_offer_new8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_2
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_2',) , 1.000 
+item: ('fb_art_of_war_2', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_2',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_2
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_2',) , 1.000 
+item: ('fb_art_of_war_2', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_2',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_2
+item: ('RU',) , 1.000 
+item: ('fb_art_of_war_2',) , 1.000 
+item: ('RU', 'fb_art_of_war_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_art_of_war_2',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_2
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_2',) , 1.000 
+item: ('fb_art_of_war_2', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_2',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_2
+item: ('NO',) , 1.000 
+item: ('fb_art_of_war_2',) , 1.000 
+item: ('fb_art_of_war_2', 'NO') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_2',) ==> ('NO',) , confidence: 1.000, lift: 1.000
+Rule: ('NO',) ==> ('fb_art_of_war_2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_2
+item: ('TR',) , 1.000 
+item: ('fb_art_of_war_2',) , 1.000 
+item: ('fb_art_of_war_2', 'TR') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_2',) ==> ('TR',) , confidence: 1.000, lift: 1.000
+Rule: ('TR',) ==> ('fb_art_of_war_2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_2
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_2',) , 1.000 
+item: ('fb_art_of_war_2', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_2',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_2
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_2',) , 1.000 
+item: ('fb_art_of_war_2', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_2',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_newbie
+item: ('US',) , 1.000 
+item: ('fb_offer_newbie',) , 1.000 
+item: ('US', 'fb_offer_newbie') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('US',) ==> ('fb_offer_newbie',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_offer_newbie',) ==> ('US',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_newbie
+item: ('ok_offer_new1',) , 0.212 
+item: ('RU', 'ok_offer_new1') , 0.212 
+item: ('RU',) , 0.876 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.141
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_newbie
+item: ('fb_offer_newbie',) , 1.000 
+item: ('TR',) , 1.000 
+item: ('TR', 'fb_offer_newbie') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('TR',) ==> ('fb_offer_newbie',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_offer_newbie',) ==> ('TR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_newbie
+item: ('fb_offer_newbie',) , 1.000 
+item: ('FR',) , 1.000 
+item: ('FR', 'fb_offer_newbie') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('FR',) ==> ('fb_offer_newbie',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_offer_newbie',) ==> ('FR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_newbie
+item: ('fb_offer_newbie',) , 1.000 
+item: ('DE',) , 1.000 
+item: ('DE', 'fb_offer_newbie') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('DE',) ==> ('fb_offer_newbie',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_offer_newbie',) ==> ('DE',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_warrior_chest
+item: ('RU', 'ok_warrior_chest') , 0.214 
+item: ('ok_warrior_chest',) , 0.246 
+item: ('RU',) , 0.797 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_warrior_chest',) ==> ('RU',) , confidence: 0.868, lift: 1.089
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_amazon_chest
+item: ('RU', 'ok_amazon_chest') , 0.212 
+item: ('ok_amazon_chest',) , 0.230 
+item: ('RU',) , 0.818 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_amazon_chest',) ==> ('RU',) , confidence: 0.922, lift: 1.127
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('fb_art_of_war_6',) , 1.000 
+item: ('FR',) , 1.000 
+item: ('FR', 'fb_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('FR',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_6',) ==> ('FR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('fb_art_of_war_6',) , 1.000 
+item: ('TN',) , 1.000 
+item: ('TN', 'fb_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('TN',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_6',) ==> ('TN',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('fb_art_of_war_6',) , 1.000 
+item: ('DE',) , 1.000 
+item: ('DE', 'fb_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('DE',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_6',) ==> ('DE',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('fb_art_of_war_6',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_art_of_war_6', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_6',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('ok_offer_new9',) , 0.500 
+item: ('TR',) , 0.500 
+item: ('fb_art_of_war_6',) , 0.500 
+item: ('RU',) , 0.500 
+item: ('RU', 'ok_offer_new9') , 0.500 
+item: ('TR', 'fb_art_of_war_6') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_new9',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_offer_new9',) ==> ('RU',) , confidence: 1.000, lift: 2.000
+Rule: ('TR',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_art_of_war_6',) ==> ('TR',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('fb_art_of_war_6',) , 1.000 
+item: ('DE',) , 1.000 
+item: ('DE', 'fb_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('DE',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_6',) ==> ('DE',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_6',) , 1.000 
+item: ('fb_art_of_war_6', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_6',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('BR',) , 0.500 
+item: ('fb_art_of_war_6',) , 0.500 
+item: ('ok_crystal_upgrade_2',) , 0.500 
+item: ('RU',) , 0.500 
+item: ('RU', 'ok_crystal_upgrade_2') , 0.500 
+item: ('fb_art_of_war_6', 'BR') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_crystal_upgrade_2',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_crystal_upgrade_2',) ==> ('RU',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_art_of_war_6',) ==> ('BR',) , confidence: 1.000, lift: 2.000
+Rule: ('BR',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('fb_art_of_war_6',) , 1.000 
+item: ('GE',) , 1.000 
+item: ('GE', 'fb_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('GE',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_6',) ==> ('GE',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_6
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_6',) , 1.000 
+item: ('fb_art_of_war_6', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_6',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_6',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_crystal_upgrade_5
+item: ('vk_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_crystal_upgrade_5
+item: ('vk_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_crystal_upgrade_5
+item: ('vk_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_crystal_upgrade_5
+item: ('vk_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_crystal_upgrade_5
+item: ('vk_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_crystal_upgrade_5
+item: ('vk_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_crystal_upgrade_5
+item: ('BY',) , 1.000 
+item: ('vk_crystal_upgrade_5',) , 1.000 
+item: ('vk_crystal_upgrade_5', 'BY') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_crystal_upgrade_5',) ==> ('BY',) , confidence: 1.000, lift: 1.000
+Rule: ('BY',) ==> ('vk_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_crystal_upgrade_5
+item: ('vk_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_big02
+item: ('fb_chest_big02',) , 1.000 
+item: ('DE',) , 1.000 
+item: ('DE', 'fb_chest_big02') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('DE',) ==> ('fb_chest_big02',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_big02',) ==> ('DE',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_big02
+item: ('fb_chest_big02',) , 1.000 
+item: ('CZ',) , 1.000 
+item: ('CZ', 'fb_chest_big02') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('CZ',) ==> ('fb_chest_big02',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_big02',) ==> ('CZ',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_big02
+item: ('fb_chest_big02',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_chest_big02') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_chest_big02',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_big02',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_big02
+item: ('US',) , 1.000 
+item: ('fb_chest_big02',) , 1.000 
+item: ('fb_chest_big02', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_big02',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_chest_big02',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_ny1
+item: ('US',) , 1.000 
+item: ('fb_chest_ny1',) , 1.000 
+item: ('US', 'fb_chest_ny1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('US',) ==> ('fb_chest_ny1',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_ny1',) ==> ('US',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_chest_ny1
+item: ('fb_chest_ny1',) , 1.000 
+item: ('RO',) , 1.000 
+item: ('RO', 'fb_chest_ny1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RO',) ==> ('fb_chest_ny1',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_ny1',) ==> ('RO',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_4
+item: ('fb_crystal_upgrade_4',) , 1.000 
+item: ('RO',) , 1.000 
+item: ('RO', 'fb_crystal_upgrade_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RO',) ==> ('fb_crystal_upgrade_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_4',) ==> ('RO',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_4
+item: ('TH',) , 1.000 
+item: ('fb_crystal_upgrade_4',) , 1.000 
+item: ('TH', 'fb_crystal_upgrade_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('TH',) ==> ('fb_crystal_upgrade_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_4',) ==> ('TH',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_4
+item: ('mm_offer_new5',) , 0.500 
+item: ('fb_crystal_upgrade_4',) , 0.500 
+item: ('EE',) , 0.500 
+item: ('RU',) , 0.500 
+item: ('EE', 'fb_crystal_upgrade_4') , 0.500 
+item: ('RU', 'mm_offer_new5') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('EE',) ==> ('fb_crystal_upgrade_4',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_crystal_upgrade_4',) ==> ('EE',) , confidence: 1.000, lift: 2.000
+Rule: ('RU',) ==> ('mm_offer_new5',) , confidence: 1.000, lift: 2.000
+Rule: ('mm_offer_new5',) ==> ('RU',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_4
+item: ('fb_crystal_upgrade_4',) , 1.000 
+item: ('FR',) , 1.000 
+item: ('FR', 'fb_crystal_upgrade_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('FR',) ==> ('fb_crystal_upgrade_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_4',) ==> ('FR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_4
+item: ('US',) , 1.000 
+item: ('fb_crystal_upgrade_4',) , 1.000 
+item: ('US', 'fb_crystal_upgrade_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('US',) ==> ('fb_crystal_upgrade_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_4',) ==> ('US',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_4
+item: ('US',) , 1.000 
+item: ('fb_crystal_upgrade_4',) , 1.000 
+item: ('US', 'fb_crystal_upgrade_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('US',) ==> ('fb_crystal_upgrade_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_4',) ==> ('US',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_4
+item: ('fb_crystal_upgrade_4',) , 1.000 
+item: ('FR',) , 1.000 
+item: ('FR', 'fb_crystal_upgrade_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('FR',) ==> ('fb_crystal_upgrade_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_4',) ==> ('FR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_4
+item: ('fb_crystal_upgrade_4',) , 1.000 
+item: ('DK',) , 1.000 
+item: ('DK', 'fb_crystal_upgrade_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('DK',) ==> ('fb_crystal_upgrade_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_4',) ==> ('DK',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_4
+item: ('fb_crystal_upgrade_4',) , 1.000 
+item: ('TR',) , 1.000 
+item: ('TR', 'fb_crystal_upgrade_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('TR',) ==> ('fb_crystal_upgrade_4',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_4',) ==> ('TR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_chest_ny3
+item: ('RU', 'ok_offer_new1') , 0.291 
+item: ('ok_offer_new1',) , 0.294 
+item: ('RU',) , 0.848 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.988, lift: 1.166
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_1
+item: ('mm_in_art_of_war_1',) , 1.000 
+item: ('UA',) , 1.000 
+item: ('UA', 'mm_in_art_of_war_1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('UA',) ==> ('mm_in_art_of_war_1',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_1',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_1
+item: ('mm_in_art_of_war_1',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_1',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_1',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_1
+item: ('mm_in_art_of_war_1',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_1',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_1',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_1
+item: ('mm_in_art_of_war_1',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_1',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_1',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_1
+item: ('mm_in_art_of_war_1',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_1') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_1',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_1',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_amazon_chest
+item: ('RU', 'ok_amazon_chest') , 0.209 
+item: ('ok_amazon_chest',) , 0.227 
+item: ('RU',) , 0.817 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_amazon_chest',) ==> ('RU',) , confidence: 0.919, lift: 1.125
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('ok_crystal_upgrade_2',) , 0.228 
+item: ('RU', 'ok_crystal_upgrade_2') , 0.228 
+item: ('RU',) , 0.846 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_crystal_upgrade_2',) ==> ('RU',) , confidence: 1.000, lift: 1.183
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('US',) , 1.000 
+item: ('fb_payer_promotions',) , 1.000 
+item: ('fb_payer_promotions', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_payer_promotions',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('IT',) , 1.000 
+item: ('fb_payer_promotions', 'IT') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_payer_promotions',) ==> ('IT',) , confidence: 1.000, lift: 1.000
+Rule: ('IT',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_payer_promotions') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_payer_promotions',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_payer_promotions') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_payer_promotions',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_payer_promotions') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_payer_promotions',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_payer_promotions') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_payer_promotions',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('US',) , 0.500 
+item: ('fb_payer_promotions',) , 0.500 
+item: ('ok_offer_new2',) , 0.500 
+item: ('RU',) , 0.500 
+item: ('RU', 'ok_offer_new2') , 0.500 
+item: ('fb_payer_promotions', 'US') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_new2',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_offer_new2',) ==> ('RU',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_payer_promotions',) ==> ('US',) , confidence: 1.000, lift: 2.000
+Rule: ('US',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('BY',) , 1.000 
+item: ('fb_payer_promotions', 'BY') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_payer_promotions',) ==> ('BY',) , confidence: 1.000, lift: 1.000
+Rule: ('BY',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('DE',) , 1.000 
+item: ('DE', 'fb_payer_promotions') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('DE',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_payer_promotions',) ==> ('DE',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_payer_promotions') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_payer_promotions',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('US',) , 1.000 
+item: ('fb_payer_promotions',) , 1.000 
+item: ('fb_payer_promotions', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_payer_promotions',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_payer_promotions', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_payer_promotions',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('UA',) , 1.000 
+item: ('fb_payer_promotions',) , 1.000 
+item: ('fb_payer_promotions', 'UA') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_payer_promotions',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+Rule: ('UA',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_payer_promotions', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_payer_promotions',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('fb_payer_promotions',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_payer_promotions') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_payer_promotions',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_payer_promotions
+item: ('UA',) , 1.000 
+item: ('fb_payer_promotions',) , 1.000 
+item: ('fb_payer_promotions', 'UA') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_payer_promotions',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+Rule: ('UA',) ==> ('fb_payer_promotions',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_cat_chest_medium
+item: ('vk_cat_chest_medium',) , 1.000 
+item: ('UA',) , 1.000 
+item: ('UA', 'vk_cat_chest_medium') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('UA',) ==> ('vk_cat_chest_medium',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_cat_chest_medium',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_chest_ny3
+item: ('vk_chest_ny3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('vk_chest_ny3', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_chest_ny3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('vk_chest_ny3',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_army2
+item: ('RU', 'ok_crystal_upgrade_2') , 0.212 
+item: ('ok_crystal_upgrade_2',) , 0.224 
+item: ('RU', 'ok_offer_new1') , 0.227 
+item: ('ok_offer_new1',) , 0.239 
+item: ('RU',) , 0.855 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_crystal_upgrade_2',) ==> ('RU',) , confidence: 0.946, lift: 1.106
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.949, lift: 1.110
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_army2
+item: ('RU', 'ok_offer_new1') , 0.203 
+item: ('ok_offer_new1',) , 0.220 
+item: ('RU',) , 0.818 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.927, lift: 1.133
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_army2
+item: ('RU',) , 0.500 
+item: ('BY',) , 0.500 
+item: ('ok_in_art_of_war_1',) , 0.500 
+item: ('ok_offer_army2',) , 0.500 
+item: ('ok_in_art_of_war_1', 'BY') , 0.500 
+item: ('RU', 'ok_offer_army2') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_in_art_of_war_1',) ==> ('BY',) , confidence: 1.000, lift: 2.000
+Rule: ('BY',) ==> ('ok_in_art_of_war_1',) , confidence: 1.000, lift: 2.000
+Rule: ('RU',) ==> ('ok_offer_army2',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_army2
+item: ('RU',) , 1.000 
+item: ('ok_offer_army2',) , 1.000 
+item: ('RU', 'ok_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_army2
+item: ('RU',) , 1.000 
+item: ('ok_offer_army2',) , 1.000 
+item: ('RU', 'ok_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_army2
+item: ('ok_offer_new3',) , 0.203 
+item: ('RU', 'ok_offer_new1') , 0.205 
+item: ('ok_offer_new1',) , 0.222 
+item: ('RU',) , 0.771 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.921, lift: 1.194
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_army2
+item: ('RU',) , 1.000 
+item: ('ok_offer_army2',) , 1.000 
+item: ('RU', 'ok_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_7_trvt24000ruby
+item: ('vk_7_trvt24000ruby',) , 1.000 
+item: ('BY',) , 1.000 
+item: ('BY', 'vk_7_trvt24000ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('BY',) ==> ('vk_7_trvt24000ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_7_trvt24000ruby',) ==> ('BY',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_7_trvt24000ruby
+item: ('vk_7_trvt24000ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_7_trvt24000ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_7_trvt24000ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_7_trvt24000ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_7_trvt24000ruby
+item: ('vk_7_trvt24000ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_7_trvt24000ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_7_trvt24000ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_7_trvt24000ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('mm_offer_army',) , 1.000 
+item: ('KZ',) , 1.000 
+item: ('KZ', 'mm_offer_army') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('KZ',) ==> ('mm_offer_army',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army',) ==> ('KZ',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('ok_offer_new1',) , 0.308 
+item: ('RU', 'ok_offer_new1') , 0.308 
+item: ('RU',) , 0.885 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.130
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('mm_offer_army',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('mm_offer_army',) , 1.000 
+item: ('UA',) , 1.000 
+item: ('UA', 'mm_offer_army') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('UA',) ==> ('mm_offer_army',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('mm_offer_army',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('mm_offer_army',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('mm_offer_army',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('mm_offer_army',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('mm_offer_army',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army
+item: ('mm_offer_army',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_6
+item: ('ok_offer_new1',) , 0.204 
+item: ('RU', 'ok_crystal_upgrade_2') , 0.245 
+item: ('ok_crystal_upgrade_2',) , 0.265 
+item: ('RU',) , 0.842 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_crystal_upgrade_2',) ==> ('RU',) , confidence: 0.924, lift: 1.097
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_6
+item: ('ok_in_art_of_war_6',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_6
+item: ('ok_in_art_of_war_6',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_6
+item: ('ok_in_art_of_war_6',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_6
+item: ('ok_in_art_of_war_6',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_6
+item: ('ok_chest_ny3',) , 0.200 
+item: ('ok_in_art_of_war_6',) , 0.200 
+item: ('ok_offer_new4',) , 0.200 
+item: ('RU', 'ok_chest_ny3') , 0.200 
+item: ('RU', 'ok_offer_new4') , 0.200 
+item: ('RU', 'ok_in_art_of_war_6') , 0.200 
+item: ('ok_offer_3',) , 0.400 
+item: ('RU', 'ok_offer_3') , 0.400 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_ny3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_new4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_6
+item: ('ok_in_art_of_war_6',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_6
+item: ('ok_in_art_of_war_6',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_6') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_6',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_chest_ny3x12
+item: ('RU', 'ok_offer_new1') , 0.248 
+item: ('ok_offer_new1',) , 0.261 
+item: ('RU',) , 0.856 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.950, lift: 1.110
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('mm_in_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('UA',) , 1.000 
+item: ('mm_in_art_of_war_4',) , 1.000 
+item: ('mm_in_art_of_war_4', 'UA') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_in_art_of_war_4',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+Rule: ('UA',) ==> ('mm_in_art_of_war_4',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('mm_in_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('mm_in_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('ok_amazon_chest',) , 0.262 
+item: ('RU', 'ok_amazon_chest') , 0.262 
+item: ('RU',) , 0.892 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_amazon_chest',) ==> ('RU',) , confidence: 1.000, lift: 1.121
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('mm_in_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('mm_in_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('mm_in_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('mm_in_art_of_war_4',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_4') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_4',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_4
+item: ('mm_in_art_of_war_4',) , 0.500 
+item: ('vk_offer_new3',) , 0.500 
+item: ('RU', 'mm_in_art_of_war_4') , 0.500 
+item: ('RU', 'vk_offer_new3') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_in_art_of_war_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_new3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 0.500 
+item: ('vk_chest_small',) , 0.500 
+item: ('RU', 'vk_chest_small') , 0.500 
+item: ('RU', 'ok_in_art_of_war_5') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_chest_small',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('US',) , 0.500 
+item: ('ok_in_art_of_war_5',) , 0.500 
+item: ('fb_offer_new1',) , 0.500 
+item: ('GB',) , 0.500 
+item: ('GB', 'ok_in_art_of_war_5') , 0.500 
+item: ('fb_offer_new1', 'US') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('GB',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_in_art_of_war_5',) ==> ('GB',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_offer_new1',) ==> ('US',) , confidence: 1.000, lift: 2.000
+Rule: ('US',) ==> ('fb_offer_new1',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('GB', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('GB',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('mm_offer_new4',) , 0.500 
+item: ('mm_offer_new6',) , 0.500 
+item: ('ok_in_art_of_war_5',) , 0.500 
+item: ('mm_offer_new6', 'mm_offer_new4') , 0.500 
+item: ('RU', 'ok_in_art_of_war_5') , 0.500 
+item: ('RU', 'mm_offer_new6') , 0.500 
+item: ('RU', 'mm_offer_new4') , 0.500 
+item: ('RU', 'mm_offer_new6', 'mm_offer_new4') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new6', 'mm_offer_new4') ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new6',) ==> ('mm_offer_new4',) , confidence: 1.000, lift: 2.000
+Rule: ('mm_offer_new4',) ==> ('mm_offer_new6',) , confidence: 1.000, lift: 2.000
+Rule: ('mm_offer_new6',) ==> ('RU', 'mm_offer_new4') , confidence: 1.000, lift: 2.000
+Rule: ('mm_offer_new4',) ==> ('RU', 'mm_offer_new6') , confidence: 1.000, lift: 2.000
+Rule: ('RU', 'mm_offer_new6') ==> ('mm_offer_new4',) , confidence: 1.000, lift: 2.000
+Rule: ('RU', 'mm_offer_new4') ==> ('mm_offer_new6',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_5
+item: ('ok_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_7
+item: ('ok_in_art_of_war_7',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_7
+item: ('ok_in_art_of_war_7',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_7
+item: ('ok_in_art_of_war_7',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_7
+item: ('ok_in_art_of_war_7',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_in_art_of_war_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_in_art_of_war_7
+item: ('ok_in_art_of_war_7',) , 0.500 
+item: ('ok_chest_big02',) , 0.500 
+item: ('RU', 'ok_chest_big02') , 0.500 
+item: ('RU', 'ok_in_art_of_war_7') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_big02',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_5
+item: ('fb_crystal_upgrade_5',) , 1.000 
+item: ('RO',) , 1.000 
+item: ('RO', 'fb_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RO',) ==> ('fb_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_5',) ==> ('RO',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_5
+item: ('US',) , 1.000 
+item: ('fb_crystal_upgrade_5',) , 1.000 
+item: ('fb_crystal_upgrade_5', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_crystal_upgrade_5',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_5
+item: ('US',) , 1.000 
+item: ('fb_crystal_upgrade_5',) , 1.000 
+item: ('fb_crystal_upgrade_5', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_crystal_upgrade_5',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_5
+item: ('US',) , 1.000 
+item: ('fb_crystal_upgrade_5',) , 1.000 
+item: ('fb_crystal_upgrade_5', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_crystal_upgrade_5',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_5
+item: ('US',) , 1.000 
+item: ('fb_crystal_upgrade_5',) , 1.000 
+item: ('fb_crystal_upgrade_5', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_crystal_upgrade_5',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_5
+item: ('fb_crystal_upgrade_5',) , 1.000 
+item: ('UA',) , 1.000 
+item: ('UA', 'fb_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('UA',) ==> ('fb_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_5',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_5
+item: ('fb_crystal_upgrade_5',) , 1.000 
+item: ('CH',) , 1.000 
+item: ('CH', 'fb_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('CH',) ==> ('fb_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_5',) ==> ('CH',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_5
+item: ('fb_crystal_upgrade_5',) , 1.000 
+item: ('NL',) , 1.000 
+item: ('NL', 'fb_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('NL',) ==> ('fb_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_5',) ==> ('NL',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_crystal_upgrade_5
+item: ('fb_crystal_upgrade_5',) , 1.000 
+item: ('DK',) , 1.000 
+item: ('DK', 'fb_crystal_upgrade_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('DK',) ==> ('fb_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_crystal_upgrade_5',) ==> ('DK',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_chest_ny2x12
+item: ('ok_offer_new2',) , 0.333 
+item: ('RU', 'ok_offer_new2') , 0.333 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_5
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_5',) , 1.000 
+item: ('fb_art_of_war_5', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_5',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_5
+item: ('vk_offer_new3',) , 0.200 
+item: ('vk_offer_new1',) , 0.200 
+item: ('vk_crystal_upgrade_3',) , 0.200 
+item: ('RU', 'vk_offer_new1') , 0.200 
+item: ('RU', 'vk_crystal_upgrade_3') , 0.200 
+item: ('vk_offer_new3', 'RU') , 0.200 
+item: ('fb_art_of_war_5',) , 0.400 
+item: ('US',) , 0.400 
+item: ('US', 'fb_art_of_war_5') , 0.400 
+item: ('RU',) , 0.600 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.667
+Rule: ('vk_crystal_upgrade_3',) ==> ('RU',) , confidence: 1.000, lift: 1.667
+Rule: ('vk_offer_new3',) ==> ('RU',) , confidence: 1.000, lift: 1.667
+Rule: ('US',) ==> ('fb_art_of_war_5',) , confidence: 1.000, lift: 2.500
+Rule: ('fb_art_of_war_5',) ==> ('US',) , confidence: 1.000, lift: 2.500
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_5
+item: ('BR',) , 1.000 
+item: ('fb_art_of_war_5',) , 1.000 
+item: ('fb_art_of_war_5', 'BR') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_5',) ==> ('BR',) , confidence: 1.000, lift: 1.000
+Rule: ('BR',) ==> ('fb_art_of_war_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_5
+item: ('fb_art_of_war_5',) , 0.500 
+item: ('DE',) , 0.500 
+item: ('ok_in_art_of_war_1',) , 0.500 
+item: ('RU',) , 0.500 
+item: ('RU', 'ok_in_art_of_war_1') , 0.500 
+item: ('DE', 'fb_art_of_war_5') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_in_art_of_war_1',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_in_art_of_war_1',) ==> ('RU',) , confidence: 1.000, lift: 2.000
+Rule: ('DE',) ==> ('fb_art_of_war_5',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_art_of_war_5',) ==> ('DE',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_3
+item: ('KZ',) , 1.000 
+item: ('mm_offer_3',) , 1.000 
+item: ('KZ', 'mm_offer_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('KZ',) ==> ('mm_offer_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_3',) ==> ('KZ',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_3
+item: ('RU',) , 1.000 
+item: ('mm_offer_3',) , 1.000 
+item: ('RU', 'mm_offer_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_3
+item: ('RU',) , 1.000 
+item: ('mm_offer_3',) , 1.000 
+item: ('RU', 'mm_offer_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_warrior_chest
+item: ('RU', 'ok_warrior_chest') , 0.203 
+item: ('ok_warrior_chest',) , 0.233 
+item: ('RU',) , 0.798 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_warrior_chest',) ==> ('RU',) , confidence: 0.873, lift: 1.094
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_8
+item: ('fb_offer_8',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_offer_8', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_offer_8',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_offer_8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_offer_8
+item: ('fb_offer_8',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_offer_8', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_offer_8',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_offer_8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_7
+item: ('RU',) , 1.000 
+item: ('ok_offer_7',) , 1.000 
+item: ('RU', 'ok_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_7
+item: ('vk_chest_big',) , 0.200 
+item: ('ok_chest_great',) , 0.300 
+item: ('ok_chest_great', 'RU') , 0.300 
+item: ('RU',) , 0.900 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_great',) ==> ('RU',) , confidence: 1.000, lift: 1.111
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_7
+item: ('RU',) , 1.000 
+item: ('ok_offer_7',) , 1.000 
+item: ('RU', 'ok_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_7
+item: ('RU',) , 1.000 
+item: ('ok_offer_7',) , 1.000 
+item: ('RU', 'ok_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_7
+item: ('RU',) , 1.000 
+item: ('ok_offer_7',) , 1.000 
+item: ('RU', 'ok_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_7
+item: ('RU',) , 1.000 
+item: ('ok_offer_7',) , 1.000 
+item: ('RU', 'ok_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_7
+item: ('RU',) , 1.000 
+item: ('ok_offer_7',) , 1.000 
+item: ('RU', 'ok_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_chest_ny3x12
+item: ('ok_offer_new2',) , 0.250 
+item: ('RU', 'ok_offer_new2') , 0.250 
+item: ('RU',) , 0.929 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new2',) ==> ('RU',) , confidence: 1.000, lift: 1.077
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_chest_ny3x12
+item: ('ok_offer_new1',) , 0.221 
+item: ('RU', 'ok_offer_new1') , 0.221 
+item: ('RU',) , 0.894 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.118
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_5
+item: ('ok_chest_great', 'RU') , 0.264 
+item: ('ok_chest_great',) , 0.280 
+item: ('RU',) , 0.864 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_great',) ==> ('RU',) , confidence: 0.943, lift: 1.091
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_chest_great
+item: ('ok_chest_great', 'RU') , 0.230 
+item: ('ok_chest_great',) , 0.238 
+item: ('RU',) , 0.845 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_chest_great',) ==> ('RU',) , confidence: 0.965, lift: 1.142
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_chest_ny2x12
+item: ('RU',) , 1.000 
+item: ('vk_chest_ny2x12',) , 1.000 
+item: ('RU', 'vk_chest_ny2x12') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_chest_ny2x12',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_chest_ny2x12',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie_2
+item: ('vk_offer_newbie_2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_offer_newbie_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_offer_newbie_2',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_newbie_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie_2
+item: ('vk_offer_newbie_2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_offer_newbie_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_offer_newbie_2',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_newbie_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie_2
+item: ('vk_offer_newbie_2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_offer_newbie_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_offer_newbie_2',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_newbie_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie_2
+item: ('vk_offer_newbie_2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_offer_newbie_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_offer_newbie_2',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_newbie_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie_2
+item: ('vk_offer_newbie_2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_offer_newbie_2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_offer_newbie_2',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_newbie_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_chest_ny1
+item: ('RU', 'ok_offer_new1') , 0.305 
+item: ('ok_offer_new1',) , 0.312 
+item: ('RU',) , 0.847 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.979, lift: 1.155
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer2
+item: ('fb_army_offer2',) , 0.333 
+item: ('ok_offer_new5',) , 0.333 
+item: ('ok_crystal_upgrade_2',) , 0.333 
+item: ('RU', 'ok_offer_new5') , 0.333 
+item: ('RU', 'fb_army_offer2') , 0.333 
+item: ('RU',) , 0.667 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new5',) ==> ('RU',) , confidence: 1.000, lift: 1.500
+Rule: ('fb_army_offer2',) ==> ('RU',) , confidence: 1.000, lift: 1.500
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer2
+item: ('fb_army_offer2',) , 1.000 
+item: ('CZ',) , 1.000 
+item: ('CZ', 'fb_army_offer2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('CZ',) ==> ('fb_army_offer2',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer2',) ==> ('CZ',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer2
+item: ('fb_army_offer2',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_army_offer2', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_army_offer2',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_army_offer2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer2
+item: ('fb_army_offer2',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_army_offer2', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_army_offer2',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_army_offer2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer2
+item: ('fb_army_offer2',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_army_offer2', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_army_offer2',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_army_offer2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer2
+item: ('fb_army_offer2',) , 1.000 
+item: ('FR',) , 1.000 
+item: ('FR', 'fb_army_offer2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('FR',) ==> ('fb_army_offer2',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer2',) ==> ('FR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer2
+item: ('US',) , 1.000 
+item: ('fb_army_offer2',) , 1.000 
+item: ('fb_army_offer2', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_army_offer2',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_army_offer2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer2
+item: ('fb_army_offer2',) , 1.000 
+item: ('FR',) , 1.000 
+item: ('FR', 'fb_army_offer2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('FR',) ==> ('fb_army_offer2',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer2',) ==> ('FR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer2
+item: ('fb_army_offer2',) , 1.000 
+item: ('GB',) , 1.000 
+item: ('fb_army_offer2', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_army_offer2',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_army_offer2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_7
+item: ('RU',) , 1.000 
+item: ('mm_in_art_of_war_7',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_7
+item: ('mm_in_art_of_war_7',) , 0.500 
+item: ('vk_offer_new7',) , 0.500 
+item: ('RU', 'vk_offer_new7') , 0.500 
+item: ('mm_in_art_of_war_7', 'RU') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_new7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_7
+item: ('RU',) , 1.000 
+item: ('mm_in_art_of_war_7',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_7
+item: ('ok_offer_new5',) , 0.500 
+item: ('mm_in_art_of_war_7',) , 0.500 
+item: ('RU', 'ok_offer_new5') , 0.500 
+item: ('RU', 'mm_in_art_of_war_7') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_7
+item: ('ok_offer_new2',) , 0.333 
+item: ('ok_offer_new5',) , 0.333 
+item: ('mm_in_art_of_war_7',) , 0.333 
+item: ('RU', 'ok_offer_new5') , 0.333 
+item: ('RU', 'ok_offer_new2') , 0.333 
+item: ('RU', 'mm_in_art_of_war_7') , 0.333 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_new2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_7
+item: ('RU',) , 1.000 
+item: ('mm_in_art_of_war_7',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_5_trvt4400ruby
+item: ('vk_5_trvt4400ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_5_trvt4400ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_5_trvt4400ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_5_trvt4400ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_5_trvt4400ruby
+item: ('vk_5_trvt4400ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_5_trvt4400ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_5_trvt4400ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_5_trvt4400ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_5_trvt4400ruby
+item: ('vk_offer_new1',) , 0.250 
+item: ('RU', 'vk_offer_new1') , 0.250 
+item: ('RU',) , 0.750 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.333
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_5_trvt4400ruby
+item: ('UA',) , 1.000 
+item: ('vk_5_trvt4400ruby',) , 1.000 
+item: ('UA', 'vk_5_trvt4400ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('UA',) ==> ('vk_5_trvt4400ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_5_trvt4400ruby',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_5_trvt4400ruby
+item: ('vk_5_trvt4400ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_5_trvt4400ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_5_trvt4400ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_5_trvt4400ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_5_trvt4400ruby
+item: ('vk_5_trvt4400ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_5_trvt4400ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_5_trvt4400ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_5_trvt4400ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_5_trvt4400ruby
+item: ('vk_5_trvt4400ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_5_trvt4400ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_5_trvt4400ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_5_trvt4400ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_5_trvt4400ruby
+item: ('vk_5_trvt4400ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_5_trvt4400ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_5_trvt4400ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_5_trvt4400ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_chest_ny3
+item: ('mm_chest_ny3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_chest_ny3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_chest_ny3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_chest_ny3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_chest_ny3
+item: ('mm_chest_ny3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_chest_ny3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_chest_ny3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_chest_ny3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_3
+item: ('mm_in_art_of_war_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_3
+item: ('mm_in_art_of_war_3',) , 0.500 
+item: ('vk_crystal_upgrade_4',) , 0.500 
+item: ('RU', 'vk_crystal_upgrade_4') , 0.500 
+item: ('RU', 'mm_in_art_of_war_3') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_crystal_upgrade_4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_3
+item: ('mm_in_art_of_war_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_3
+item: ('mm_in_art_of_war_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_3
+item: ('mm_in_art_of_war_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_3
+item: ('mm_in_art_of_war_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_3
+item: ('mm_in_art_of_war_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_3
+item: ('mm_in_art_of_war_3',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_3') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_3',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_chest_ny2
+item: ('mm_chest_ny2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_chest_ny2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_chest_ny2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_chest_ny2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_chest_ny2
+item: ('RU', 'ok_offer_new1') , 0.247 
+item: ('ok_offer_new1',) , 0.259 
+item: ('RU',) , 0.839 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.956, lift: 1.139
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_army2
+item: ('mm_offer_army2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_army2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_army2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_army2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_new8
+item: ('mm_offer_new8',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_new8') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_new8',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new8',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_new8
+item: ('RU', 'ok_crystal_upgrade_2') , 0.256 
+item: ('ok_crystal_upgrade_2',) , 0.268 
+item: ('RU',) , 0.902 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_crystal_upgrade_2',) ==> ('RU',) , confidence: 0.955, lift: 1.058
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_new8
+item: ('mm_offer_new8',) , 1.000 
+item: ('AZ',) , 1.000 
+item: ('mm_offer_new8', 'AZ') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_offer_new8',) ==> ('AZ',) , confidence: 1.000, lift: 1.000
+Rule: ('AZ',) ==> ('mm_offer_new8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_new8
+item: ('mm_offer_new8',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_new8') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_new8',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new8',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_new8
+item: ('mm_offer_new7',) , 1.000 
+item: ('mm_offer_new8',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_new8') , 1.000 
+item: ('mm_offer_new8', 'mm_offer_new7') , 1.000 
+item: ('RU', 'mm_offer_new7') , 1.000 
+item: ('RU', 'mm_offer_new8', 'mm_offer_new7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_new8',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new8',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new8',) ==> ('mm_offer_new7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new7',) ==> ('mm_offer_new8',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('mm_offer_new7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('mm_offer_new8', 'mm_offer_new7') , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new8',) ==> ('RU', 'mm_offer_new7') , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new7',) ==> ('RU', 'mm_offer_new8') , confidence: 1.000, lift: 1.000
+Rule: ('RU', 'mm_offer_new8') ==> ('mm_offer_new7',) , confidence: 1.000, lift: 1.000
+Rule: ('RU', 'mm_offer_new7') ==> ('mm_offer_new8',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new8', 'mm_offer_new7') ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_new8
+item: ('mm_offer_new8',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_new8') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_new8',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_new8',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_new8
+item: ('mm_offer_new8',) , 0.500 
+item: ('ok_offer_new4',) , 0.500 
+item: ('RU', 'mm_offer_new8') , 0.500 
+item: ('RU', 'ok_offer_new4') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_offer_new8',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_new4',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_8
+item: ('fb_art_of_war_8',) , 1.000 
+item: ('AR',) , 1.000 
+item: ('fb_art_of_war_8', 'AR') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_8',) ==> ('AR',) , confidence: 1.000, lift: 1.000
+Rule: ('AR',) ==> ('fb_art_of_war_8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_8
+item: ('fb_art_of_war_8',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_art_of_war_8') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_art_of_war_8',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_art_of_war_8',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_8
+item: ('GB',) , 1.000 
+item: ('fb_art_of_war_8',) , 1.000 
+item: ('fb_art_of_war_8', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_8',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_art_of_war_8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_8
+item: ('GB',) , 1.000 
+item: ('fb_art_of_war_8',) , 1.000 
+item: ('fb_art_of_war_8', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_8',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_art_of_war_8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_8
+item: ('GB',) , 1.000 
+item: ('fb_art_of_war_8',) , 1.000 
+item: ('fb_art_of_war_8', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_8',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_art_of_war_8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_8
+item: ('GB',) , 0.500 
+item: ('fb_art_of_war_8',) , 0.500 
+item: ('ok_in_art_of_war_03',) , 0.500 
+item: ('KZ',) , 0.500 
+item: ('fb_art_of_war_8', 'GB') , 0.500 
+item: ('ok_in_art_of_war_03', 'KZ') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_8',) ==> ('GB',) , confidence: 1.000, lift: 2.000
+Rule: ('GB',) ==> ('fb_art_of_war_8',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_in_art_of_war_03',) ==> ('KZ',) , confidence: 1.000, lift: 2.000
+Rule: ('KZ',) ==> ('ok_in_art_of_war_03',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_8
+item: ('GB',) , 1.000 
+item: ('fb_art_of_war_8',) , 1.000 
+item: ('fb_art_of_war_8', 'GB') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_8',) ==> ('GB',) , confidence: 1.000, lift: 1.000
+Rule: ('GB',) ==> ('fb_art_of_war_8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_8
+item: ('ok_in_art_of_war_03',) , 0.222 
+item: ('ok_in_art_of_war_03', 'RU') , 0.222 
+item: ('RU',) , 0.889 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_in_art_of_war_03',) ==> ('RU',) , confidence: 1.000, lift: 1.125
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_8
+item: ('US',) , 1.000 
+item: ('fb_art_of_war_8',) , 1.000 
+item: ('fb_art_of_war_8', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_8',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_art_of_war_8',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_5
+item: ('mm_offer_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_5',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_chest_ny1x12
+item: ('mm_chest_ny1x12',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_chest_ny1x12') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_chest_ny1x12',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_chest_ny1x12',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_chest_ny1x12
+item: ('ok_offer_new1',) , 0.222 
+item: ('RU', 'ok_offer_new1') , 0.222 
+item: ('RU',) , 0.911 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.098
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie
+item: ('vk_offer_newbie',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('vk_offer_newbie', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_newbie',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('vk_offer_newbie',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie
+item: ('vk_offer_newbie',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('vk_offer_newbie', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_newbie',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('vk_offer_newbie',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie
+item: ('vk_offer_newbie',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('vk_offer_newbie', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_newbie',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('vk_offer_newbie',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie
+item: ('vk_offer_newbie',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('vk_offer_newbie', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_newbie',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('vk_offer_newbie',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_newbie
+item: ('vk_offer_new3',) , 0.500 
+item: ('vk_offer_newbie',) , 0.500 
+item: ('vk_offer_new3', 'RU') , 0.500 
+item: ('vk_offer_newbie', 'RU') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_new3',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_newbie',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_5
+item: ('mm_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_5
+item: ('mm_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_5
+item: ('mm_in_art_of_war_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_in_art_of_war_5') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_5
+item: ('vk_03_trvt120ruby',) , 0.500 
+item: ('mm_in_art_of_war_5',) , 0.500 
+item: ('RU', 'mm_in_art_of_war_5') , 0.500 
+item: ('RU', 'vk_03_trvt120ruby') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_in_art_of_war_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_03_trvt120ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_5
+item: ('UA',) , 1.000 
+item: ('mm_in_art_of_war_5',) , 1.000 
+item: ('mm_in_art_of_war_5', 'UA') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_in_art_of_war_5',) ==> ('UA',) , confidence: 1.000, lift: 1.000
+Rule: ('UA',) ==> ('mm_in_art_of_war_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_newbie
+item: ('ok_offer_new1',) , 0.234 
+item: ('RU', 'ok_offer_new1') , 0.234 
+item: ('RU',) , 0.818 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.222
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_newbie
+item: ('RU', 'ok_crystal_upgrade_2') , 0.233 
+item: ('RU', 'ok_offer_new1') , 0.243 
+item: ('ok_crystal_upgrade_2',) , 0.245 
+item: ('ok_offer_new1',) , 0.253 
+item: ('RU',) , 0.850 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_crystal_upgrade_2',) ==> ('RU',) , confidence: 0.950, lift: 1.118
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.960, lift: 1.129
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_offer_newbie
+item: ('RU',) , 1.000 
+item: ('ok_offer_newbie',) , 1.000 
+item: ('RU', 'ok_offer_newbie') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_offer_newbie',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_newbie',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_crystal_upgrade_5
+item: ('mm_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('mm_crystal_upgrade_5', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('mm_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_crystal_upgrade_5
+item: ('mm_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('mm_crystal_upgrade_5', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('mm_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_crystal_upgrade_5
+item: ('mm_crystal_upgrade_5',) , 1.000 
+item: ('KZ',) , 1.000 
+item: ('mm_crystal_upgrade_5', 'KZ') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_crystal_upgrade_5',) ==> ('KZ',) , confidence: 1.000, lift: 1.000
+Rule: ('KZ',) ==> ('mm_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_crystal_upgrade_5
+item: ('mm_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('mm_crystal_upgrade_5', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('mm_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_crystal_upgrade_5
+item: ('ok_offer_new3',) , 0.219 
+item: ('RU', 'ok_offer_new3') , 0.219 
+item: ('RU',) , 0.938 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new3',) ==> ('RU',) , confidence: 1.000, lift: 1.067
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_crystal_upgrade_5
+item: ('mm_crystal_upgrade_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('mm_crystal_upgrade_5', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_crystal_upgrade_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('mm_crystal_upgrade_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 1.000 
+item: ('fb_chest_small',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('fb_chest_small', 'fb_army_offer') , 1.000 
+item: ('RU', 'fb_army_offer') , 1.000 
+item: ('fb_chest_small', 'RU') , 1.000 
+item: ('fb_chest_small', 'RU', 'fb_army_offer') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_chest_small',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('fb_chest_small',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_small',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('fb_chest_small',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_small',) ==> ('RU', 'fb_army_offer') , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('fb_chest_small', 'fb_army_offer') , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('fb_chest_small', 'RU') , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_small', 'RU') ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_chest_small', 'fb_army_offer') ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU', 'fb_army_offer') ==> ('fb_chest_small',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_army_offer') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 1.000 
+item: ('DK',) , 1.000 
+item: ('DK', 'fb_army_offer') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('DK',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('DK',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_army_offer') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'fb_army_offer') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 1.000 
+item: ('IT',) , 1.000 
+item: ('IT', 'fb_army_offer') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('IT',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('IT',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 0.500 
+item: ('mm_crystal_upgrade_2',) , 0.500 
+item: ('UA',) , 0.500 
+item: ('DE',) , 0.500 
+item: ('UA', 'mm_crystal_upgrade_2') , 0.500 
+item: ('DE', 'fb_army_offer') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('UA',) ==> ('mm_crystal_upgrade_2',) , confidence: 1.000, lift: 2.000
+Rule: ('mm_crystal_upgrade_2',) ==> ('UA',) , confidence: 1.000, lift: 2.000
+Rule: ('DE',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_army_offer',) ==> ('DE',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('US',) , 1.000 
+item: ('fb_army_offer',) , 1.000 
+item: ('fb_army_offer', 'US') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_army_offer',) ==> ('US',) , confidence: 1.000, lift: 1.000
+Rule: ('US',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('fb_army_offer',) , 1.000 
+item: ('TR',) , 1.000 
+item: ('TR', 'fb_army_offer') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('TR',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 1.000
+Rule: ('fb_army_offer',) ==> ('TR',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_army_offer
+item: ('US',) , 0.500 
+item: ('fb_army_offer',) , 0.500 
+item: ('RU',) , 0.500 
+item: ('vk_offer_new1',) , 0.500 
+item: ('fb_sparks_pack',) , 0.500 
+item: ('RU', 'vk_offer_new1') , 0.500 
+item: ('fb_sparks_pack', 'US') , 0.500 
+item: ('fb_army_offer', 'US') , 0.500 
+item: ('fb_sparks_pack', 'fb_army_offer') , 0.500 
+item: ('fb_sparks_pack', 'fb_army_offer', 'US') , 0.500 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_offer_new1',) , confidence: 1.000, lift: 2.000
+Rule: ('vk_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_sparks_pack',) ==> ('US',) , confidence: 1.000, lift: 2.000
+Rule: ('US',) ==> ('fb_sparks_pack',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_army_offer',) ==> ('US',) , confidence: 1.000, lift: 2.000
+Rule: ('US',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_sparks_pack',) ==> ('fb_army_offer',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_army_offer',) ==> ('fb_sparks_pack',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_sparks_pack',) ==> ('US', 'fb_army_offer') , confidence: 1.000, lift: 2.000
+Rule: ('fb_army_offer',) ==> ('fb_sparks_pack', 'US') , confidence: 1.000, lift: 2.000
+Rule: ('US',) ==> ('fb_sparks_pack', 'fb_army_offer') , confidence: 1.000, lift: 2.000
+Rule: ('fb_sparks_pack', 'fb_army_offer') ==> ('US',) , confidence: 1.000, lift: 2.000
+Rule: ('fb_sparks_pack', 'US') ==> ('fb_army_offer',) , confidence: 1.000, lift: 2.000
+Rule: ('US', 'fb_army_offer') ==> ('fb_sparks_pack',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_art_of_war_7
+item: ('fb_art_of_war_7',) , 1.000 
+item: ('DK',) , 1.000 
+item: ('fb_art_of_war_7', 'DK') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('fb_art_of_war_7',) ==> ('DK',) , confidence: 1.000, lift: 1.000
+Rule: ('DK',) ==> ('fb_art_of_war_7',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_5
+item: ('vk_offer_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('vk_offer_5', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('vk_offer_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_5
+item: ('vk_offer_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('vk_offer_5', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('vk_offer_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_5
+item: ('vk_offer_5',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('vk_offer_5', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_offer_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('vk_offer_5',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_offer_5
+item: ('ok_offer_new1',) , 0.500 
+item: ('ok_offer_new6',) , 0.500 
+item: ('vk_offer_5',) , 0.500 
+item: ('RU', 'ok_offer_new1') , 0.500 
+item: ('ok_offer_new6', 'ok_offer_new1') , 0.500 
+item: ('ok_offer_new6', 'RU') , 0.500 
+item: ('vk_offer_5', 'RU') , 0.500 
+item: ('RU', 'ok_offer_new1', 'ok_offer_new6') , 0.500 
+item: ('RU',) , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_new6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_offer_5',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_new6', 'ok_offer_new1') ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_offer_new6',) ==> ('ok_offer_new1',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_offer_new1',) ==> ('ok_offer_new6',) , confidence: 1.000, lift: 2.000
+Rule: ('ok_offer_new1',) ==> ('RU', 'ok_offer_new6') , confidence: 1.000, lift: 2.000
+Rule: ('ok_offer_new6',) ==> ('RU', 'ok_offer_new1') , confidence: 1.000, lift: 2.000
+Rule: ('RU', 'ok_offer_new1') ==> ('ok_offer_new6',) , confidence: 1.000, lift: 2.000
+Rule: ('RU', 'ok_offer_new6') ==> ('ok_offer_new1',) , confidence: 1.000, lift: 2.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_6_trvt11500ruby
+item: ('vk_6_trvt11500ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_6_trvt11500ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_6_trvt11500ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_6_trvt11500ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_6_trvt11500ruby
+item: ('vk_6_trvt11500ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_6_trvt11500ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_6_trvt11500ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_6_trvt11500ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_6_trvt11500ruby
+item: ('vk_6_trvt11500ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_6_trvt11500ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_6_trvt11500ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_6_trvt11500ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_6_trvt11500ruby
+item: ('vk_6_trvt11500ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_6_trvt11500ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_6_trvt11500ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_6_trvt11500ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_6_trvt11500ruby
+item: ('vk_6_trvt11500ruby',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_6_trvt11500ruby') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_6_trvt11500ruby',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_6_trvt11500ruby',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_leprekon2
+item: ('RU',) , 1.000 
+item: ('mm_leprekon2',) , 1.000 
+item: ('RU', 'mm_leprekon2') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_leprekon2',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_leprekon2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_chest_ny2x12
+item: ('mm_chest_ny2x12',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_chest_ny2x12') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_chest_ny2x12',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_chest_ny2x12',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_cat_chest_big
+item: ('BY',) , 1.000 
+item: ('vk_cat_chest_big',) , 1.000 
+item: ('vk_cat_chest_big', 'BY') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('vk_cat_chest_big',) ==> ('BY',) , confidence: 1.000, lift: 1.000
+Rule: ('BY',) ==> ('vk_cat_chest_big',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_7
+item: ('mm_offer_7',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_7
+item: ('mm_offer_7',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_7
+item: ('mm_offer_7',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_7
+item: ('mm_offer_7',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_7
+item: ('mm_offer_7',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_7') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_7',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_7',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: fb_sparks_pack
+item: ('RU', 'ok_offer_new1') , 0.206 
+item: ('ok_offer_new1',) , 0.220 
+item: ('RU',) , 0.763 
+
+RULES------------RULES------------RULES:
+Rule: ('ok_offer_new1',) ==> ('RU',) , confidence: 0.934, lift: 1.223
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_sparks_pack
+item: ('vk_sparks_pack',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_sparks_pack') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_sparks_pack',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_sparks_pack',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: vk_sparks_pack
+item: ('vk_sparks_pack',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'vk_sparks_pack') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('vk_sparks_pack',) , confidence: 1.000, lift: 1.000
+Rule: ('vk_sparks_pack',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_6
+item: ('mm_in_art_of_war_6',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('mm_in_art_of_war_6', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_in_art_of_war_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('mm_in_art_of_war_6',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_in_art_of_war_6
+item: ('mm_in_art_of_war_6',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('mm_in_art_of_war_6', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_in_art_of_war_6',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('mm_in_art_of_war_6',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_newbie
+item: ('mm_offer_newbie',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_newbie') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_newbie',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_newbie',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_newbie
+item: ('mm_offer_newbie',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_newbie') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_newbie',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_newbie',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_newbie
+item: ('mm_offer_newbie',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'mm_offer_newbie') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('mm_offer_newbie',) , confidence: 1.000, lift: 1.000
+Rule: ('mm_offer_newbie',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: mm_offer_newbie_2
+item: ('mm_offer_newbie_2',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('mm_offer_newbie_2', 'RU') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('mm_offer_newbie_2',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+Rule: ('RU',) ==> ('mm_offer_newbie_2',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
+SUP------------SUP------------SUP:
+For time boundaries on: ok_cat_chest_big
+item: ('ok_cat_chest_big',) , 1.000 
+item: ('RU',) , 1.000 
+item: ('RU', 'ok_cat_chest_big') , 1.000 
+
+RULES------------RULES------------RULES:
+Rule: ('RU',) ==> ('ok_cat_chest_big',) , confidence: 1.000, lift: 1.000
+Rule: ('ok_cat_chest_big',) ==> ('RU',) , confidence: 1.000, lift: 1.000
+
+-----------------------------------------
+
